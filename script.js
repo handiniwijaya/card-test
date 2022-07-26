@@ -1,4 +1,4 @@
-fetch('https://62b527b9da3017eabb159970.mockapi.io/product_cart')
+fetch('https://github.com/handiniwijaya/card-test/blob/main/assets/api-json/data_product.json')
     .then(data => {
         return data.json()
     })
