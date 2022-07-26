@@ -1,58 +1,58 @@
 [
     {
         "product_name": "Sepatu Putih",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/white%20shoes.png?raw=true",
+        "img": "https://github.com/handiniwijaya/card-test/blob/main/docs/assets/img/white%20shoes.png?raw=true",
         "price": "2000K",
         "info": "Memiliki bahan canvas dengan kualitas baik",
         "id": "1"
     },
     {
         "product_name": "Headphone Bluetooth",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/headphone.png?raw=true",
+        "img": "https://github.com/handiniwijaya/card-test/blob/main/docs/assets/img/headphone.png?raw=true",
         "price": "685k",
         "info": "Terasa nyaman saat digunakan tanpa kabel",
         "id": "2"
     },
     {
-        "product_name": "Dompet",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/wallet.png?raw=true",
+        "product_name": "Dompet Transformer",
+        "img": "https://github.com/handiniwijaya/card-test/blob/main/docs/assets/img/wallet.png?raw=true",
         "price": "450K",
         "info": "Dompet dengan logo transformer yang keren",
         "id": "3"
     },
     {
         "product_name": "Smartwatch",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/watchapple.png?raw=true",
+        "img": "https://github.com/handiniwijaya/card-test/blob/main/docs/assets/img/watchapple.png?raw=true",
         "price": "3500K",
         "info": "Sangat memudahkan anda dalam kehidupan",
         "id": "4"
     },
     {
         "product_name": "Handphone SS",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/phone.png?raw=true",
+        "img": "https://github.com/handiniwijaya/card-test/blob/main/docs/assets/img/phone.png?raw=true",
         "price": "6000K",
         "info": "Smartphone dengan kecepatan yang luar biasa",
         "id": "5"
     },
     {
         "product_name": "Dompet Kulit Biasa",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/walletkulit.png?raw=true",
+        "img": "https://github.com/handiniwijaya/card-test/blob/main/docs/assets/img/walletkulit.png?raw=true",
         "price": "300K",
         "info": "Dompet dengan bahan kulit yang berkualitas",
         "id": "6"
     },
     {
-        "product_name": "Dompet Kulit Biasa",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/walletkulit.png?raw=true",
+        "product_name": "Earphone Bluetooth",
+        "img": "https://github.com/handiniwijaya/data_img/blob/main/earphone.png?raw=true",
         "price": "300K",
-        "info": "Dompet dengan bahan kulit yang berkualitas",
+        "info": "Earphone Bluetooth tanpa kabel nyaman digunakkan",
         "id": "7"
     },
     {
-        "product_name": "Dompet Kulit Biasa",
-        "img": "https://github.com/handiniwijaya/data_img/blob/main/walletkulit.png?raw=true",
+        "product_name": "Jam Tangan",
+        "img": "https://github.com/handiniwijaya/data_img/blob/main/watch.png?raw=true",
         "price": "300K",
-        "info": "Dompet dengan bahan kulit yang berkualitas",
+        "info": "Jam tangan keren dengan warna yang unik",
         "id": "8"
     }
 ]
