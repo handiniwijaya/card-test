@@ -1,4 +1,4 @@
-fetch('https://github.com/handiniwijaya/card-test/blob/main/assets/api-json/data_product.json')
+fetch('https://handiniwijaya.github.io/card-test/assets/api-json/data_product.json')
     .then(data => {
         return data.json()
     })
